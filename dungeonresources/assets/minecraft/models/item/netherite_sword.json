@@ -5,6 +5,7 @@
   },
   
   "overrides": [
- {"predicate": {"custom_model_data":1}, "model": "item/katana"}
+ {"predicate": {"custom_model_data":1}, "model": "item/katana"},
+ {"predicate": {"custom_model_data":10}, "model": "item/katana_skin0"}
  ]
 }

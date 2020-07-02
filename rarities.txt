@@ -1,0 +1,31 @@
+Dagger
+------
+skin0 - amethyst dagger - Rare
+skin1 - volt dagger     - Renowned
+skin2 - bone dagger	- Uncommon
+skin3 - broken reality	- Unique
+------
+
+Broadsword / Guardblade
+-----------------------
+skin0 - void sword	- Set Renowned (void set)
+skin1 - diamond sword	- Uncommon
+skin2 - adamant blade	- Rare
+skin3 - lumite blade	- Renowned
+-----------------------
+
+Shortsword
+----------
+skin0 - soul slayer	- Set Renowned (void set)
+skin1 - twin edge	- Renowned
+skin2 - jungle blade	- Rare
+skin3 - damaged blade	- Uncommon
+----------
+
+Katana
+------
+skin0 - rift edge	- Set Renowned (void set)
+skin1 - masamune	- Uncommon
+skin2 - emerald edge	- Rare
+skin3 - blaze blade	- Renowned
+------
