@@ -6,7 +6,8 @@
   
   "overrides": [
  {"predicate": {"custom_model_data":1}, "model": "item/dagger"},
- {"predicate": {"custom_model_data":20}, "model": "item/dagger_skin0"},
- {"predicate": {"custom_model_data":21}, "model": "item/dagger_skin1"}
+ {"predicate": {"custom_model_data":10}, "model": "item/dagger_skin0"},
+ {"predicate": {"custom_model_data":11}, "model": "item/dagger_skin1"},
+ {"predicate": {"custom_model_data":12}, "model": "item/dagger_skin2"}
  ]
 }
